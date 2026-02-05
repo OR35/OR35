@@ -17,3 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=OR35&color=B2A4FF&style=flat&label=VISITORS" />
 
 </div>
+
+<!--
+github 프사 바꾸고 싶으면 google Colab 저장해둔거로 바꾸면 됨
+-->
