@@ -1,21 +1,19 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=B2A4FF&height=200&section=header&text=Hello,%20I'm%20Heily%20%3A%29&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B2A4FF&height=200&section=header&text=Hello,%20I'm%20Heily%20%3A%29&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff" />
+  
+  <br/>
 
-### Tech Stacks
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,git" />
-</div>
-<!--
-### Tech Stacks
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-</div>
--->
-<br/>
-<br/>
+<!--  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OR35&show_icons=true&theme=radical&bg_color=ffffff00&title_color=B2A4FF&text_color=999999&icon_color=B2A4FF&hide_border=true" /> -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OR35&show_icons=true&theme=radical&bg_color=ffffff00&title_color=B2A4FF&text_color=333333&icon_color=B2A4FF&hide_border=true" />
+  
+  <br/>
+  <br/> <h3 style="color: #B2A4FF;">Tech Stacks</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,vue,git&theme=light" />
+
+  <br/>
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=OR35&color=B2A4FF&style=flat&label=VISITORS" />
 
 </div>
