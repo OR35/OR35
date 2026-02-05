@@ -1,6 +1,6 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=B2A4FF&height=200&section=header&text=Heily's%20Profile&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff)
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=B2A4FF&height=200&section=header&text=Hello,%20I'm%20Heily%20%3A%29&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff)
 
 ### Tech Stacks
 <div align="center">
@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 -->
-
 <br/>
 <br/>
 
