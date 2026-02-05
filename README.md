@@ -1,17 +1,22 @@
-# Welcome to Heily's Space :)
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&secondaryColor=86A8E7&height=200&section=header&text=Heily's%20Profile&fontSize=70&fontColor=ffffff)
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOR35&count_bg=%23A29BFE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-</p>
-
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=B2A4FF&height=200&section=header&text=Heily's%20Profile&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff)
 
 ### Tech Stacks
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,vue,git" />
+</div>
+<!--
+### Tech Stacks
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+-->
+
+<br/>
+<br/>
+
 </div>
